@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Project <br>👯 I’m looking to collaborate on web development project <br>🤝 I’m looking for help with my project <br>🌱 I’m currently learning DSA<br>💬 Ask me about Java, React, Nodejs<br>
-
+🔭 Currently Building: A full-stack project using React, Node.js, and Firebase <br>
+👯 Open to Collaborate: Always excited to join web development projects and contribute to impactful ideas <br>
+🤝 Seeking Support: Looking for guidance and best practices to scale my current project effectively <br>
+🌱 Learning Focus: Deepening my understanding of Data Structures & Algorithms to strengthen problem-solving <br>
+💬 Ask Me About: Java, React.js, Node.js, Spring Boot, or building scalable backend systems <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-mishra092) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anujmi908@gmail.com) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anujmi908@gmail.com) 
